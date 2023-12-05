@@ -1,3 +1,4 @@
+using MaxiShop.Infrastructure;
 using MaxiShop.Infrastructure.DbContexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
@@ -5,6 +6,7 @@ using Microsoft.Extensions.Options;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddInfrastructureServices();
 
 builder.Services.AddCors(options => {
     options.AddPolicy("CustomPolicy", x => x.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
