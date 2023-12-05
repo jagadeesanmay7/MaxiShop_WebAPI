@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\bin\Debug\net8.0\MaxiShop.Infrastructure.deps.json
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\bin\Debug\net8.0\MaxiShop.Infrastructure.runtimeconfig.json
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\bin\Debug\net8.0\MaxiShop.Infrastructure.dll
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\bin\Debug\net8.0\MaxiShop.Infrastructure.pdb
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\bin\Debug\net8.0\MaxiShop.Domain.dll
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\bin\Debug\net8.0\MaxiShop.Domain.pdb
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.dll
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\refint\MaxiShop.Infrastructure.dll
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.pdb
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\MaxiShop.Infrastructure.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\API\MaxiShop\MaxiShop.Infrastructure\obj\Debug\net8.0\ref\MaxiShop.Infrastructure.dll
